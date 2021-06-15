@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.com.stefanos.javaefetivo.capi;
+package br.com.stefanos.javaefetivo.capii;
 
 /**
  * Teste de static factory Item 1 do livro Java Efetivo

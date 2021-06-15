@@ -1,4 +1,4 @@
-package br.com.stefanos.javaefetivo.capi;
+package br.com.stefanos.javaefetivo.capii;
 
 import java.util.EnumSet;
 import java.util.Objects;

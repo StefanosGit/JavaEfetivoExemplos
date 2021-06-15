@@ -1,4 +1,4 @@
-package br.com.stefanos.javaefetivo.capi;
+package br.com.stefanos.javaefetivo.capii;
 
 public class Teste {
 	
